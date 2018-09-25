@@ -1,11 +1,16 @@
 _repo: Sydney-to-Croydon-Northern-Queensland-An-Interesting-Account-of-a-Journey-to-the-Gulf-Country__57437
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57437-h/images/cover.jpg
 creator:
   author:
     agent_name: Saltbush
     gutenberg_agent_id: '49385'
     url: http://www.gutenberg.org/2009/agents/49385
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57437#Sydney-to-Croydon-Northern-Queensland-An-Interesting-Account-of-a-Journey-to-the-Gulf-Country_
 gutenberg_issued: '2018-07-03'
 gutenberg_type: Text
 identifiers:
